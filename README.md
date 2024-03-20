@@ -24,16 +24,22 @@ This repository contains the source code for a Workout Tracker application devel
  
 ### Technologies Used:
 
-HTML: Markup language used for structuring the web page.
-CSS: Styling language used for designing the user interface and layout.
-JavaScript: Programming language used for implementing the application logic.
-Leaflet.js: JavaScript library used for interactive maps.
-localStorage: Web storage mechanism used for storing workout data locally in the browser.
+- HTML: Markup language used for structuring the web page.
+
+- CSS: Styling language used for designing the user interface and layout.
+
+- JavaScript: Programming language used for implementing the application logic.
+
+- Leaflet.js: JavaScript library used for interactive maps.
+
+-localStorage: Web storage mechanism used for storing workout data locally in the browser.
 
 
 
 ### How to Use:
 
-Clone the repository to your local machine.
-Open the index.html file in your web browser.
-Start tracking your workouts by filling out the form with the required details, then press Enter to confirm.
+- Clone the repository to your local machine.
+
+- Open the index.html file in your web browser.
+
+- Start tracking your workouts by filling out the form with the required details, then press Enter to confirm.
