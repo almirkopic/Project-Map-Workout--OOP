@@ -11,10 +11,14 @@ This repository contains the source code for a Workout Tracker application devel
 
 ### Features:
 
-Tracking Workouts: Users can input details such as distance, duration, and type of workout (running or cycling) through a user-friendly form.
-#Display on Map: Workouts are displayed on an interactive map using Leaflet.js, allowing users to visualize their workout routes.
-Storage: All workouts are stored locally in the browser's localStorage, ensuring data persistence even after the browser is closed.
-Responsive Design: The application is designed to be responsive and works seamlessly across different devices and screen sizes.
+- Tracking Workouts: Users can input details such as distance, duration, and type of workout (running or cycling) through a user-friendly form.
+
+- Display on Map: Workouts are displayed on an interactive map using Leaflet.js, allowing users to visualize their workout routes.
+
+- Storage: All workouts are stored locally in the browser's localStorage, ensuring data persistence even after the browser is closed.
+
+- Responsive Design: The application is designed to be responsive and works seamlessly across different devices and screen sizes.
+
 
 
  
